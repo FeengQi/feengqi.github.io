@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>feengqi.com/npm%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.html</loc>
+    <lastmod>2018-03-19T20:18:49.000Z</lastmod>
+    <data>
+        <display>
+        <title>npm常用命令</title>
+        <pubTime>2017-12-17T05:22:17.000Z</pubTime>
+        
+        <tag>npm</tag>
+         
+         
+           
+             
+              <breadCrumb title="npm" url="feengqi.com/categories/npm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/%E5%88%9B%E5%BB%BA%E6%95%B0%E7%BB%84.html</loc>
+    <lastmod>2018-03-19T13:51:57.000Z</lastmod>
+    <data>
+        <display>
+        <title>创建数组</title>
+        <pubTime>2017-06-18T02:45:17.000Z</pubTime>
+        
+        <tag>创建数组</tag>
+         
+         
+           
+             
+              <breadCrumb title="js" url="feengqi.com/categories/js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+  <url>
+    <loc>feengqi.com/css%E9%80%89%E6%8B%A9%E5%99%A8.html</loc>
+    <lastmod>2018-03-18T09:26:46.000Z</lastmod>
+    <data>
+        <display>
+        <title>css选择器</title>
+        <pubTime>2017-02-12T02:54:43.000Z</pubTime>
+        
+        <tag>css选择器</tag>
+         
+         
+           
+             
+              <breadCrumb title="css" url="feengqi.com/categories/css/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/%E2%80%98%E4%B8%94%E2%80%99%E4%B8%8E%E2%80%98%E6%88%96%E2%80%99.html</loc>
+    <lastmod>2018-03-18T09:23:35.000Z</lastmod>
+    <data>
+        <display>
+        <title>‘且’与‘或’</title>
+        <pubTime>2017-04-02T02:51:32.000Z</pubTime>
+        
+        <tag>&amp;&amp;与||</tag>
+         
+         
+           
+             
+              <breadCrumb title="js运算符" url="feengqi.com/categories/js%E8%BF%90%E7%AE%97%E7%AC%A6/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/git%E5%91%BD%E4%BB%A4%E5%92%8C%E9%87%91%E6%89%8B%E6%8C%87.html</loc>
+    <lastmod>2018-03-18T09:20:07.000Z</lastmod>
+    <data>
+        <display>
+        <title>git命令和金手指</title>
+        <pubTime>2017-07-23T02:46:52.000Z</pubTime>
+        
+        <tag>git找回文件</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="feengqi.com/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/git%E7%9A%84rebase%E5%92%8Cmerge.html</loc>
+    <lastmod>2018-03-18T09:10:17.000Z</lastmod>
+    <data>
+        <display>
+        <title>git的rebase和merge</title>
+        <pubTime>2017-10-01T07:20:00.000Z</pubTime>
+        
+        <tag>git rebase merge</tag>
+         
+         
+           
+             
+              <breadCrumb title="git" url="feengqi.com/categories/git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/%E5%85%B3%E4%BA%8EWarning-setState-Can-only-update-a-mounted-or-mounting-component-This-usually-means-you-called-setState-on-an-unmounted-component-This-is-a-no-op-%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.html</loc>
+    <lastmod>2018-03-18T09:05:16.000Z</lastmod>
+    <data>
+        <display>
+        <title>关于Warning setState(...) Can only update a mounted or mounting component. This usually means you called setState() on an unmounted component. This is a no-op.的解决方案</title>
+        <pubTime>2018-03-17T05:02:52.000Z</pubTime>
+        
+        <tag>react</tag>
+         
+         
+           
+             
+              <breadCrumb title="react" url="feengqi.com/categories/react/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+    
+    
+  <url>
+    <loc>feengqi.com/MySQL%E6%9F%A5%E8%AF%A2%E8%AF%AD%E5%8F%A5.html</loc>
+    <lastmod>2018-03-18T04:23:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>MySQL查询语句</title>
+        <pubTime>2018-01-13T02:38:15.000Z</pubTime>
+        
+        <tag>MySQL查询语句</tag>
+         
+         
+           
+             
+              <breadCrumb title="MySQL" url="feengqi.com/categories/MySQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3.html</loc>
+    <lastmod>2018-03-18T04:22:41.000Z</lastmod>
+    <data>
+        <display>
+        <title>面向对象编程思想</title>
+        <pubTime>2017-09-10T07:41:47.000Z</pubTime>
+        
+        <tag>面向对象编程思想</tag>
+         
+         
+           
+             
+              <breadCrumb title="编程思想" url="feengqi.com/categories/%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/%E5%B7%A6%E5%8F%B3%E5%AE%9A%E5%AE%BD%EF%BC%8C%E4%B8%AD%E9%97%B4%E8%87%AA%E9%80%82%E5%BA%94%EF%BC%8C%E5%AE%9E%E7%8E%B0%E4%B8%89%E5%88%97%E5%B8%83%E5%B1%80.html</loc>
+    <lastmod>2018-03-18T04:22:16.000Z</lastmod>
+    <data>
+        <display>
+        <title>左右定宽，中间自适应，实现三列布局</title>
+        <pubTime>2017-05-17T04:34:12.000Z</pubTime>
+        
+        <tag>css</tag>
+         
+         
+           
+             
+              <breadCrumb title="css" url="feengqi.com/categories/css/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/%E4%BF%AE%E6%94%B9npm%E5%85%A8%E5%B1%80%E5%AE%89%E8%A3%85%E6%A8%A1%E5%BC%8F%E7%9A%84%E8%B7%AF%E5%BE%84.html</loc>
+    <lastmod>2018-03-18T04:21:56.000Z</lastmod>
+    <data>
+        <display>
+        <title>修改npm全局安装模式的路径</title>
+        <pubTime>2017-11-10T05:19:36.000Z</pubTime>
+        
+        <tag>npm</tag>
+         
+         
+           
+             
+              <breadCrumb title="npm" url="feengqi.com/categories/npm/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/vim%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.html</loc>
+    <lastmod>2018-03-18T04:20:34.000Z</lastmod>
+    <data>
+        <display>
+        <title>vim常用命令</title>
+        <pubTime>2017-03-10T02:53:35.000Z</pubTime>
+        
+        <tag>vim命令</tag>
+         
+         
+           
+             
+              <breadCrumb title="vim" url="feengqi.com/categories/vim/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/png8%E5%92%8Cpng24.html</loc>
+    <lastmod>2018-03-18T04:20:17.000Z</lastmod>
+    <data>
+        <display>
+        <title>png8和png24</title>
+        <pubTime>2017-08-06T02:00:10.000Z</pubTime>
+        
+        <tag>png8和png24</tag>
+         
+         
+           
+             
+              <breadCrumb title="png" url="feengqi.com/categories/png/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/Linux%E4%B8%8BXXX-is-not-in-the-sudoers-file-This-incident-will-be-reported%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.html</loc>
+    <lastmod>2018-03-18T04:19:39.000Z</lastmod>
+    <data>
+        <display>
+        <title>Linux下XXX is not in the sudoers file.This incident will be reported解决方法</title>
+        <pubTime>2018-02-17T02:59:16.000Z</pubTime>
+        
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="linux" url="feengqi.com/categories/linux/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>feengqi.com/JS%E7%AE%80%E5%8D%95%E7%94%9F%E6%88%90%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97%E4%B9%8B%E9%97%B4%E9%9A%8F%E6%9C%BA%E6%95%B0.html</loc>
+    <lastmod>2018-03-18T04:19:06.000Z</lastmod>
+    <data>
+        <display>
+        <title>JS简单生成两个数字之间随机数</title>
+        <pubTime>2017-01-01T02:57:16.000Z</pubTime>
+        
+        <tag>js随机数</tag>
+         
+         
+           
+             
+              <breadCrumb title="js" url="feengqi.com/categories/js/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+</urlset>
